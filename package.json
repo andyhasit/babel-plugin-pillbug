@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-pillbug",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A babel plugin for Pillbug",
   "main": "lib/index.js",
   "directories": {

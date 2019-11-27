@@ -2,15 +2,6 @@
 
 A babel plugin for [Pillbug](https://github.com/andyhasit/pillbug).
 
-In **.babelrc**, add:
+#### On hold
 
-```json
-{
-  "plugins": [
-    [
-      "pillbug"
-    ]
-  ]
-}
-```
-
+Until we sort out the name clash of **pillbug** vs **pillbug-js** on NPM, please use [babel-plugin-pillbug-js](https://www.npmjs.com/package/babel-plugin-pillbug-js) instead.
